@@ -37,7 +37,7 @@ public class Movie {
     * databse.*/
     @Id
     private ObjectId id;
-    private String imdbId;
+
     private String title;
     private String releaseDate;
     private String trailerLink;
