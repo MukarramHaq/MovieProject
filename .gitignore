@@ -34,3 +34,13 @@ build/
 
 ### ENV Files ###
 .env
+src/.DS_Store
+src/main/.DS_Store
+src/main/java/.DS_Store
+src/main/java/dev/.DS_Store
+src/main/java/dev/mukarram/.DS_Store
+src/main/resources/.DS_Store
+src/test/.DS_Store
+src/test/java/.DS_Store
+src/test/java/dev/.DS_Store
+src/test/java/dev/mukarram/.DS_Store
